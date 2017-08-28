@@ -1,0 +1,12 @@
+name: tr-mobArena
+version: 1.0
+description: survivez aux monstres
+author: 330ludo, Amosar
+softdepend: ["BossBarAPI"]
+ 
+main: com.trafalcraft.mobArena.Main
+ 
+commands:
+  mobarena:
+    description: commande du plugin mob arena
+    aliases: [ma]
